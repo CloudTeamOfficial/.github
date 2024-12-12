@@ -80,17 +80,17 @@ We welcome contributions to all of our projects! Whether it’s fixing bugs, add
 3. Make your changes and commit them.
 4. Open a pull request with a description of the changes.
 
-Please refer to our [Contributing Guidelines](CONTRIBUTING.md) for more information.
+Please refer to our [Contributing Guidelines](https://github.com/LynnuxDev/Akira/blob/Beta/.github/CONTRIBUTING.md) for more information.
 
 ---
 
 ## <div align="center">Code of Conduct</div>
-Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure that our community remains a welcoming and safe space for everyone.
+Please read and follow our [Code of Conduct](https://github.com/LynnuxDev/Akira/blob/Beta/.github/CODE_OF_CONDUCT.md) to ensure that our community remains a welcoming and safe space for everyone.
 
 ---
 
 ## <div align="center">License</div>
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/LynnuxDev/Akira/blob/Beta/LICENSE).
 
 ---
 
