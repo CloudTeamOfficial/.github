@@ -7,6 +7,10 @@ Welcome to the official GitHub Org of **LynnuxDev**!
 
 Our main project is **Akira**, a multi-purpose Discord bot that aims to provide a range of features to enhance your Discord server's experience. In addition to the bot, we also maintain the official website and localization repositories.
 
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Discord](https://img.shields.io/discord/738381353921544282.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/TUqZTutDUz)
+[![say](https://img.shields.io/badge/say-thanks-rebeccapurple?labelColor=white&style=flat-square)](https://github.com/orgs/LynnuxDev/discussions/categories/thanks)
+
 ---
 
 ## <div align="center">Akira - Discord Bot</div>
