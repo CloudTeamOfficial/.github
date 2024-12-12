@@ -23,52 +23,6 @@ Welcome to the official GitHub Org of **LynnuxDev**! Our main project is **Akira
 > [!NOTE]
 > <small>🔹 = [Finished] | 🔸 = [Being worked on] | 🔻 = [Not started Yet]</small>
 
-### Installation
-To get started with Akira on your server:
-1. [Invite](https://akira.lynnux.xyz/invite) the bot to your Discord server.
-2. Configure the bot’s settings as per your needs.
-3. Explore its various commands and features!
-
-For more detailed installation instructions, check out the [Docs](https://Documentation.lynnux.xyz/).
-
----
-
-## <div align="center">Akira Website</div>
-[🔗 Akira Website](https://akira.lynnux.xyz/)
-
-The **Akira Website** provides a hub for all Akira-related information, including documentation, news, and updates. The site is designed to be user-friendly and provides a comprehensive overview of Akira’s features and capabilities.
-
-### Features:
-- View detailed bot features
-- Access bot documentation
-- Stay updated with the latest news about Akira
-- Community support links
-
-The website is hosted at [https://akira.lynnux.xyz/](https://akira.lynnux.xyz/).
-
----
-
-## <div align="center">Akira Localization</div>
-[🔗 AkiraLocalization on GitHub](https://github.com/LynnuxDev/AkiraLocalization)
-
-**AkiraLocalization** handles the translation of the Akira Discord bot into **30+ languages**. The goal is to make Akira accessible to as many users as possible, regardless of their native language. Localization efforts are crucial to the project’s growth, and we encourage contributors to add or improve translations.
- 
-
-### Languages Supported:
-<ul>
-    <li>English</li>
-    <li>Spanish</li>
-    <li>French</li>
-    <li>German</li>
-    <li>Russian</li>
-    <li>Italian</li>
-    <li>And many more!</li>
-</ul>
-
-We use **[Crowdin](https://crowdin.com/project/lynnuxdevAkira)** for managing our translations, where the community can contribute to making Akira available in even more languages!
-
-If you would like to help with translations or contribute new language packs, please visit the [AkiraLocalization Repository](https://github.com/LynnuxDev/AkiraLocalization).
-
 ---
 
 ## <div align="center">Contributing</div>
