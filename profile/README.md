@@ -34,7 +34,7 @@ Our main project is **Akira**, a multi-purpose Discord bot that aims to provide 
 
 | Contributing   | License       | Code of Conduct   |
 |----------------|---------------|-------------------|
-| [Contributing] | [MIT_License] | [Code_of_Conduct] |
+| [Contributing] | [ BSD 4-Clause "Original" License](https://github.com/LynnuxDev/Akira/blob/Beta/LICENSE) | [Code_of_Conduct] |
 
 ---
 
@@ -46,4 +46,3 @@ Thank you for supporting **LynnuxDev**!
 
 [Contributing]: https://github.com/LynnuxDev/Akira/blob/Beta/.github/CONTRIBUTING.md
 [Code_of_Conduct]: https://github.com/LynnuxDev/Akira/blob/Beta/.github/CODE_OF_CONDUCT.md
-[MIT_License]: https://github.com/LynnuxDev/Akira/blob/Beta/LICENSE
